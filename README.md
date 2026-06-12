@@ -1,9 +1,5 @@
-# ETRIBULET_v3_seguro
-Listas iptv
-
-git clone 
-https://github.com/Richi57/ETRIBULET_v3_seguro.py
-
-cd RICHI57
+buscador de listas de servidores
+git clone
+https://github.com/Richi57/ETRIBULET_v3_seguro
 ls
-python3 ETRIBULET_v3_seguro.py
+pyton3 ETRIBULET_v3_seguro.py
